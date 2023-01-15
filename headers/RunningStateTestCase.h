@@ -1,0 +1,14 @@
+//
+// Created by Matthew Korkola on 2022-11-28.
+//
+
+#ifndef THEFIGHTINGMAIDEN_RUNNINGSTATETESTCASE_H
+#define THEFIGHTINGMAIDEN_RUNNINGSTATETESTCASE_H
+
+
+class RunningStateTestCase {
+
+};
+
+
+#endif //THEFIGHTINGMAIDEN_RUNNINGSTATETESTCASE_H

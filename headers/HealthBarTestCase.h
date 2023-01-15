@@ -1,0 +1,14 @@
+//
+// Created by Matthew Korkola on 2022-11-28.
+//
+
+#ifndef THEFIGHTINGMAIDEN_HEALTHBARTESTCASE_H
+#define THEFIGHTINGMAIDEN_HEALTHBARTESTCASE_H
+
+
+class HealthBarTestCase {
+
+};
+
+
+#endif //THEFIGHTINGMAIDEN_HEALTHBARTESTCASE_H
