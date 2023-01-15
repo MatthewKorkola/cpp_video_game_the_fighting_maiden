@@ -1,0 +1,16 @@
+To run full game run main .cpp
+Controls:
+Movement w,a,s,d
+Swing axe: k
+Pull axe back: l
+
+To attack:
+1) press k to swing the axe
+2) press l to swing the axe back
+
+We were unable to create the makefiles because we were not able to link sfml properly in those makefiles.
+
+To run test cases, they must be all run individually. (comment out the other mains from the test cases, as well as the main function)
+We know this is not a great solution but this is the only way we could get it to work.
+We did not know that creating makefiles with SFML would be such a large issue.
+We have already contacted professor Katchabaw about this issue.
