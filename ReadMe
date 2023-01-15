@@ -1,0 +1,22 @@
+The Fighting Maiden
+
+The Fighting Maiden is a small video game made in an object-oriented design and analysis course as part
+of a group project at Western University. The game is made in C++ and uses the SFML library.
+
+Dodge the hazards, and defeat the enemy!
+Receive assistance from NPCs as you try to reach the ultimate goal: the blue warp!
+
+How to play:
+- move up: w
+- move down: s
+- move left: a
+- move right: d
+- attack: k
+- run: hold m
+- unpause: u
+- quit: y
+
+- Note: there is a brief period after you attack where you cannot attack again. Time your attacks carefully!
+
+How to run the game:
+- run main.cpp
